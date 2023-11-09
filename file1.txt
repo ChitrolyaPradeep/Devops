@@ -1,0 +1,5 @@
+how to git install your latop
+git init
+git add
+git commit -m " this my first commit for git"
+git clone "url"
